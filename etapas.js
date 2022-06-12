@@ -4,23 +4,23 @@ let etapas = [
         numeros: 2,
         candidatos:[
             {
-                numero: '12',
-                name: 'Muito Cagadinho',
-                vice: 'Cagadinho',
-                partido: 'Roubos Grandes',
+                numero: '01',
+                name: 'Pandora',
+                vice: 'Padora',
+                partido: 'Gatos',
                 fotos: [
-                    {url:'candidato.jpg',legenda: 'Governador', small: false},
-                    {url:'candidato.png',legenda: 'Governador', small: true}
+                    {url:'pandora.jpg',legenda: 'Governador', small: false},
+                    {url:'vice-pandora.jpg',legenda: 'Governador', small: true}
                 ]
             },
             {
-                numero: '23',
-                name: 'Muito Cagado',
-                vice: 'Cagadão',
-                partido: 'Grandes Roubos',
+                numero: '02',
+                name: 'Dália',
+                vice: 'Dália',
+                partido: 'Gatas',
                 fotos: [
-                    {url:'candidato.jpg', legenda: 'Governador'},
-                    {url:'candidato.png', legenda: 'Governador', small:true},
+                    {url:'dalia.jpeg', legenda: 'Governador'},
+                    {url:'vice-dalia.jpeg', legenda: 'Governador', small:true},
                 ]
             }
         ]
@@ -30,23 +30,23 @@ let etapas = [
         numeros: 2,
         candidatos:[
             {
-                numero: '12',
-                name: 'Grande Merda',
-                partido: 'Grandes Roubos',
-                vice: 'Grande Merdinha',
+                numero: '03',
+                name: 'Bobby',
+                partido: 'Cachorros',
+                vice: 'Bobby',
                 fotos: [
-                    {url:'candidato.jpg',legenda: 'Presidente'},
-                    {url:'candidato.png',legenda: 'Vice-Presidente', small: true}
+                    {url:'bobby.jpg',legenda: 'Presidente'},
+                    {url:'vice-bobby.jpg',legenda: 'Vice-Presidente', small: true}
                 ]
             },
             {
-                numero: '23',
-                name: 'Merda Grande',
-                partido: 'Roubos Grandes',
-                vice: 'Merdinha Grande',
+                numero: '04',
+                name: 'Rannia',
+                partido: 'Cachorras',
+                vice: 'Rannia',
                 fotos: [
-                    {url:'candidato.jpg', legenda: 'Presidente'},
-                    {url:'candidato.png', legenda: 'Vice-Presidente', small: true}
+                    {url:'rannia.jpg', legenda: 'Presidente'},
+                    {url:'vice-rannia.jpg', legenda: 'Vice-Presidente', small: true}
                 ]
             }
         ]

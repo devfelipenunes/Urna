@@ -150,3 +150,18 @@ body{
     justify-content: center;
     align-items: center;
 }
+img{
+    width: 200px;
+}
+.governador{
+    justify-content: center;
+    margin-top: 100px;
+    text-align: center;
+}
+.candidatos{
+    display: flex;
+    justify-content: space-around;
+}
+.presidente{
+    text-align: center;
+}
